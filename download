@@ -1,0 +1,2 @@
+DB_URL=postgresql+psycopg2://postgres:123@localhost:5432/kucebo
+SECRET_KEY=supersecretkey

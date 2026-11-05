@@ -1,0 +1,13 @@
+[project]
+name = "sport_life"
+version = "1.0.0"
+description = "Спорт лайф - магазин спортивной одежды"
+
+[tool.flet]
+product = "Спорт лайф"
+org = "com.sportlife"
+bundle_id = "com.sportlife.app"
+company = "Sport Life"
+
+[tool.flet.app]
+path = "."
